@@ -1,0 +1,16 @@
+
+Showing All Errors Only
+Prepare build
+Prepare packages
+Build target MatchMe
+CompileStoryboard /Users/courtneyrowe/Downloads/tindergo\ (1)/MatchMe/Base.lproj/LaunchScreen.storyboard (in target 'MatchMe' from project 'MatchMe')
+    cd /Users/courtneyrowe/Downloads/tindergo\ \(1\)
+    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --module MatchMe --output-partial-info-plist /Users/courtneyrowe/Library/Developer/Xcode/DerivedData/MatchMe-ctokexjzephnycgbyilszuoxdadn/Build/Intermediates.noindex/MatchMe.build/Debug-iphonesimulator/MatchMe.build/Base.lproj/LaunchScreen-SBPartialInfo.plist --auto-activate-custom-fonts --target-device iphone --target-device ipad --minimum-deployment-target 14.0 --output-format human-readable-text /Users/courtneyrowe/Downloads/tindergo\ \(1\)/MatchMe/Base.lproj/LaunchScreen.storyboard --compilation-directory /Users/courtneyrowe/Library/Developer/Xcode/DerivedData/MatchMe-ctokexjzephnycgbyilszuoxdadn/Build/Intermediates.noindex/MatchMe.build/Debug-iphonesimulator/MatchMe.build/Base.lproj
+
+error: Build input file cannot be found: '/Users/courtneyrowe/Downloads/tindergo (1)/MatchMe/Base.lproj/LaunchScreen.storyboard'. Did you forget to declare this file as an output of a script phase or custom build rule which produces it? (in target 'MatchMe' from project 'MatchMe')
+
+Build input file cannot be found: '/Users/courtneyrowe/Downloads/tindergo (1)/MatchMe/Base.lproj/LaunchScreen.storyboard'. Did you forget to declare this file as an output of a script phase or custom build rule which produces it?
+
+
+
+Activity Log Complete    8/6/25, 7:01 PM    0.3 seconds
